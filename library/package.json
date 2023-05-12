@@ -1,0 +1,28 @@
+{
+  "name": "css-uncomment",
+  "version": "1.0.0",
+  "description": "Remove CSS comments from a string",
+  "main": "css-uncomment.js",
+  "exports": {
+    "import": "./css-uncomment.js",
+    "require": "./css-uncomment.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/css-uncomment.js.git"
+  },
+  "keywords": [
+    "css",
+    "css-uncomment",
+    "remove-css-comments",
+    "strip-css-comments",
+    "css-comments"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/css-uncomment.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/css-uncomment.js#readme"
+}

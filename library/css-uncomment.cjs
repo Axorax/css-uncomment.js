@@ -1,0 +1,1 @@
+function cssUncomment(e){return e.replaceAll(/\/\*.*?\*\//g,"")}module.exports=cssUncomment

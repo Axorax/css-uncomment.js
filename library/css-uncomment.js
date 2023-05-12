@@ -1,0 +1,1 @@
+export function cssUncomment(t){return t.replaceAll(/\/\*.*?\*\//g,"")}export default cssUncomment;
